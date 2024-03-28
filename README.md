@@ -7,3 +7,5 @@ Rock-Paper-Scissors is a classic hand game where two players choose from three o
   - HTML
   - CSS
   - Java script
+
+   # play https://dasunikayapabandara.github.io/Rock-Paper-Scissors/
