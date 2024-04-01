@@ -167,7 +167,7 @@ const game = () => {
     //Check for Paper
     if (playerChoice === "paper") {
       if (computerChoice === "scissors") {
-        winner.textContent = "Bot Wins";
+        winner.textContent = "pas Wins";
         cScore++;
         updateScore();
         return;
@@ -182,7 +182,7 @@ const game = () => {
     //Check for Scissors
     if (playerChoice === "scissors") {
       if (computerChoice === "rock") {
-        winner.textContent = "Bot Wins";
+        winner.textContent = "pas Wins";
         cScore++;
         updateScore();
         return;
