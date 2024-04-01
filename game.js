@@ -158,7 +158,7 @@ const game = () => {
         updateScore();
         return;
       } else {
-        winner.textContent = "Bot Wins";
+        winner.textContent = "pas Wins";
         cScore++;
         updateScore();
         return;
